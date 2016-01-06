@@ -1,0 +1,197 @@
+h1 {
+	border-bottom: solid;
+}
+
+/*
+TOP PAGE
+*/
+
+
+#home { 
+  background: url(../images/prof.jpg) no-repeat center 80% fixed; 
+  background-size: cover;
+  height: 100vh;
+  padding: 5%;
+}
+
+#home .intro {
+	font-size: 4em;
+	color:gray;
+}
+
+#home .name {
+	font-size: 6em;
+	color:gray;
+}
+
+#hello {
+	color:#e1725f;
+	font-size:10em;
+	border: none;
+}
+
+/*
+General section
+*/
+
+#button-section {
+	float: left;
+	margin-top: 5%;
+}
+
+
+div.centered {
+	float: none;
+	margin: 0 auto;
+}
+
+h3 {
+	text-align: center;
+}
+
+strong,
+span {
+	color: white;
+}
+
+/*
+Colored Area
+*/
+
+.main {
+	padding: 4em;
+    color:white;
+    text-align: center;
+}
+
+
+
+#first-section {
+/*	background:
+	radial-gradient(black 15%, transparent 16%) 0 0,
+	radial-gradient(black 15%, transparent 16%) 8px 8px,
+	radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+	radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+	background-color:#e1725f;
+	background-size:16px 16px;*/
+	background-color: #e1725f;
+}
+
+#second-section {
+	background-color: #a29772;
+}
+
+#third-section {
+	background-color: #c58660;
+}
+
+#forth-section {
+	background-color: #b69161;
+}
+
+#fifth-section {
+	background-color: #a18b87;
+}
+
+#sixth-section {
+	background-color: #e1725f;
+}
+
+/*
+Slider #bc8c84
+*/
+
+
+.information-section {
+	text-align: center;
+	background-color: white;
+	margin: 5% 20%;
+}
+
+#education { 
+}
+
+#design {
+}
+
+#other-projects {
+	margin: 6%;
+
+}
+
+#work-experience {
+	margin: 6%;
+	padding: none;
+}
+
+.companysection {
+	float: left;
+}
+
+/*
+Companies
+*/ 
+
+#mailchimp,
+#cloudscaling {
+	float: left;
+	margin-right: 80px;
+}
+
+#resumebutton {
+	float: none;
+	color: black;
+}
+
+.icon {
+	width: 20%;
+	height: 20%;
+}
+
+/*
+PSUDO
+*/ 
+
+a:link {
+	color:black;
+}
+
+
+/*
+CONTACT SECTION
+
+*/
+ul {
+	list-style-type: none;
+}
+
+ul.social {
+	list-style: none;
+	display: inline;
+	max-width: 50%;
+}
+
+.social li {
+	display:inline;
+	height: 3%;
+	width: 3%;
+}
+
+
+
+.sample {
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

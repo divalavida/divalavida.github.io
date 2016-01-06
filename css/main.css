@@ -1,0 +1,157 @@
+  body {
+    background-image: url('../img/diva-on-couch.jpg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    margin-bottom: 1000px;
+  }
+
+  .bg-wrapper {
+    /*background-image: linear-gradient(#ffe8e8, #f17b79, #DDD, rgba(0,0,0,0));
+    , #FF95D5, #D5C5C8,#9DA3A4, #FFB997, #ACEDFF,rgba(0,0,0,0)*/
+ /*   background-image: linear-gradient(#f17b79, #DDD, rgba(0,0,0,0));#ceb99a*/
+  }
+
+  section {
+      max-width: 700px;
+      margin: 0 auto;
+  }
+
+  section.section-topname {
+      max-width: none;
+      width: 100%;
+  }
+
+  .carousel-control.left,
+  .carousel-control.right {
+    background-image: none;
+  }
+
+  .section-topname {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .section-topname h1 {
+    color: #000;
+    font-size: 6em;
+  }
+
+/*  .section-pinktop {
+      padding-top: 40px;
+      padding-bottom: 10px;
+      background-color: #ceb99a;
+      color: white;
+      text-align: center;
+  }*/
+
+    .section-pinktop {
+      padding-top: 40px;
+      padding-bottom: 10px;
+      color: #000;
+    }
+
+/*#section-pinktop {
+     background-image: linear-gradient(#f17b79, rgba(0,0,0,0));
+}
+*/
+
+  .section-pinktop h1 {
+      margin: 0;
+  }
+
+  .section-pinktop h1 span {
+      display: block;
+  }
+
+  .section-pinktop h1 span.hello {
+      font-size: 1em;
+  }
+
+  .section-pinktop h1 span.divahurtado {
+    font-size: 2em;
+  }
+
+  .section-header {
+    background-color: #6A3937;
+    color: #fff;
+    padding: 30px 0;
+  }
+
+  .section-header.design-color {
+      background-color: #596869;
+  }
+
+  .section-header.education-color {
+      background-color: #80727b;
+  }
+
+  .section-header.otherprojects-color {
+      background-color: #bcd8c1;
+  }
+
+  .section-header.workexp-color {
+      background-color: #80727b;
+  }
+
+  .section-content {
+    background-color: #fff;
+    padding: 30px 30px;
+    text-align: center;
+  }
+
+  .section-content h3 {
+    margin-bottom: 40px;
+  }
+
+  .section-content p {
+      margin-bottom: 40px;
+      font-size: 24px;
+  }
+
+  .section-contact {
+    margin-top: 100px;
+    text-align: center;
+    color: #777;
+  }
+
+  .section-contact h2 {
+    font-size: 3em;
+  }
+
+  .section-contact i {
+    font-size: 5em;
+    margin-left: 10px;
+  }
+
+#white-to-gray {
+  background-image: linear-gradient(#edede8,#ddd); 
+}
+
+#cloudscaling,
+#mailchimp,
+#hackfsu {
+  float:left;
+  padding:3em 1em 3em 1em; 
+}
+
+#work-experience {
+  padding: 0px 0px 30px 0px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
