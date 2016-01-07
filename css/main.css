@@ -6,7 +6,7 @@
   }
 
   #home .intro {
-  font-size: 2.5em;
+  font-size: 2.5em; /*2.5*/
   color:gray;
   }
 
@@ -170,5 +170,9 @@
   text-align: center;
 }
 
+.section-contact a i {
+    color:#777;
+    text-decoration: none;
+}
 
 
