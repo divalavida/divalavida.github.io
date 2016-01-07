@@ -1,5 +1,5 @@
   #home { 
-    background: url(img/fullfront.jpeg) no-repeat center 80% fixed; 
+    background: url(../img/fullfront.jpeg) no-repeat center 80% fixed; 
     background-size: cover;
     height: 100vh;
     padding: 5%;
@@ -11,13 +11,20 @@
   }
 
   #home .name {
-    font-size: 4em;
+    font-size: 3.2em;
     color:gray;
   }
 
+  #my-name {
+    font-size: 6.5em;
+    color:gray;
+  }
+
+
   #hello {
+    padding-top: 10%;
     color:#e1725f;
-    font-size:7em;
+    font-size:5em;
     border: none;
   }
 
@@ -162,19 +169,6 @@
   padding: 0px 0px 30px 0px;
   text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
