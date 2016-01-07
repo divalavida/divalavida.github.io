@@ -30,7 +30,7 @@
   }
 
   body {
-    background-image: url('../img/diva-on-couch.jpg');
+    background-image: url('../img/diva-on-couch2.jpg');
     background-position: bottom center;
     background-repeat: no-repeat;
     margin-bottom: 1000px;
@@ -157,7 +157,7 @@
   }
 
 #white-to-gray {
-  background-image: linear-gradient(#f3f3f1,#ddd); 
+  background-image: linear-gradient(#f7f7f7,#ddd); 
 }
 
 #cloudscaling,
