@@ -32,13 +32,13 @@
 
   @media only screen and (max-device-width: 740px) {
 
-      #home { 
+/*      #home { 
       background: url(../img/fullfront-small.jpeg) no-repeat center 80% fixed; 
       background-size: cover;
       height: 100vh;
       padding: 5%;
       max-width: 100%
-      } 
+      } */
 
       #home .intro {
       font-size: 2.0em; /*2.5*/
