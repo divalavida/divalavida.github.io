@@ -30,9 +30,7 @@
   }
 
 
-  @media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 1024px)  {
+  @media only screen and (max-width: 1024px) {
 
       #home { 
         background: url(../img/fullfront-small.jpeg) no-repeat center 80% fixed; 
@@ -43,17 +41,17 @@
       } 
 
       #home .intro {
-      font-size: 0.5em; /*2.5*/
+      font-size: 2.0em; /*2.5*/
       color:gray;
       }
 
       #home .name {
-        font-size: .64em;
+        font-size: 2.3em;
         color:gray;
       }
 
       #my-name {
-        font-size: 1.3em;
+        font-size: 4.2em;
         color:gray;
       }
 
@@ -61,7 +59,7 @@
       #hello {
         padding-top: 10%;
         color:#e1725f;
-        font-size:1em;
+        font-size:4em;
         border: none;
       }
   }
@@ -69,6 +67,7 @@
 
   body {
     background-image: url('../img/diva-on-couch2.jpg');
+    background-size: cover;
     background-position: bottom center;
     background-repeat: no-repeat;
     margin-bottom: 1000px;
