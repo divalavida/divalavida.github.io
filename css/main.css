@@ -34,8 +34,8 @@
 
       #home { 
         background: url(../img/fullfront-small.jpeg) no-repeat center 80% fixed; 
-        background-size: cover;
-        height: 100vh;
+/*        background-size: cover;
+*/      height: 100vh;
         padding: 5%;
         max-width: 100%
       } 
@@ -67,7 +67,6 @@
 
   body {
     background-image: url('../img/diva-on-couch2.jpg');
-    background-size: cover;
     background-position: bottom center;
     background-repeat: no-repeat;
     margin-bottom: 1000px;
