@@ -33,11 +33,11 @@
   @media only screen and (max-device-width: 740px) {
 
       #home { 
-      background: url(../img/fullfront.jpeg) no-repeat center 80% fixed; 
+      background: url(../img/fullfront-small.jpeg) no-repeat center center fixed; 
       background-size: cover;
-      height: 30%;
-      width: 30%;
+      height: 100vh;
       padding: 5%;
+      max-width: 100%
       } 
 
       #home .intro {
