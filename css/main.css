@@ -192,9 +192,10 @@
 
 #cloudscaling,
 #mailchimp,
-#hackfsu {
+#hackfsu
+#tinybop {
   float:left;
-  padding:3em 1em 3em 1em; 
+  padding:3em 1em; 
 }
 
 #work-experience {
