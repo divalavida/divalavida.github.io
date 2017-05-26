@@ -29,14 +29,14 @@
     border: none;
   }
 
-@media only screen 
+/*@media only screen 
 and (min-device-width : 375px) 
-and (max-device-width : 667px) { /* STYLES GO HERE */}
+and (max-device-width : 667px) { /* STYLES GO HERE */}*/
 
   @media only screen and (max-width: 740px) {
 
       #home { 
-      background: url(../img/fullfront.jpeg) no-repeat center center; 
+      background: url(../img/fullfront.jpeg) no-repeat right center; 
 /*    background-size: cover;
       height: 100vh;
       padding: 5%;
