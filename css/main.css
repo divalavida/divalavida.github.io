@@ -86,6 +86,10 @@ and (max-device-width : 667px) { /* STYLES GO HERE */}*/
       width: 100%;
   }
 
+  .quote {
+      font-family: 'Patrick Hand', cursive;
+  }
+
   .carousel-control.left,
   .carousel-control.right {
     background-image: none;
