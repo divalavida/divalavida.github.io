@@ -86,6 +86,12 @@ and (max-device-width : 667px) { /* STYLES GO HERE */}*/
       width: 100%;
   }
 
+/*These sections define the fonts and stuff of the word parts*/
+
+  .categoryTitle {
+      font-family: 'Press Start 2P', cursive;
+  }
+
   .quote {
       font-family: 'Patrick Hand', cursive;
   }
@@ -106,24 +112,11 @@ and (max-device-width : 667px) { /* STYLES GO HERE */}*/
     font-size: 6em;
   }
 
-/*  .section-pinktop {
-      padding-top: 40px;
-      padding-bottom: 10px;
-      background-color: #ceb99a;
-      color: white;
-      text-align: center;
-  }*/
-
     .section-pinktop {
       padding-top: 40px;
       padding-bottom: 10px;
       color: #000;
     }
-
-/*#section-pinktop {
-     background-image: linear-gradient(#f17b79, rgba(0,0,0,0));
-}
-*/
 
   .section-pinktop h1 {
       margin: 0;
