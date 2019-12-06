@@ -94,6 +94,12 @@ and (max-device-width : 667px) { /* STYLES GO HERE */}*/
 
   .quote {
       font-family: 'Patrick Hand', cursive;
+      font-size: 250%;
+  }
+
+  .categoryDescription {
+      font-size: 100%;
+
   }
 
   .carousel-control.left,
